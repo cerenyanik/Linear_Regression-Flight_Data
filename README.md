@@ -3,7 +3,7 @@
 In this study, which includes Flight Take Off data, Exploratory Data Analysis was carried out in order to better understand the reasons for taxi-out causing high costs; and ***Linear Regression Model*** was applied. 
 
 #### Some of the questions I aim to answer in Exploratory Data Analysis are:
-- Which month and day of the week had the highest number of flight delays?
+- Which month and day of the week had the highest number of flight delays? 
 - What was the number of flights based on taxi-out times?
 - What was the delay percentage of flights?
 - What were the top 10 weather conditions that caused delays?
